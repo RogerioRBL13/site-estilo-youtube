@@ -1,0 +1,66 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.container {
+    background-color: #F7F7F7;
+    max-width: 900px;
+    /* min-height: 415px; */
+    display: grid;
+    grid-template-columns: 543px 270px;
+    /* grid-template-columns: repeat(auto-fill, minmax(100px, 543px) minmax(70px, 270px)); */
+    gap: 17px;
+    padding: 35px;
+}
+
+.secao-principal{
+    display: grid;
+    grid-template-rows: 217px 21px 16px 76px;
+    grid-gap: 8px;
+}
+
+.titulo-video{
+    font-size: 18px;
+}
+
+.visualizações {
+    font-size: 14px;
+}
+
+.descricao {
+    font-size: 16px;
+}
+
+.area-lateral{
+    display: grid;
+    grid-template-rows: 56px 1fr;
+    gap: 20px;
+}
+
+.propaganda, .miniatura, .area-video{
+    background-color: #C4C4C4;
+}
+
+.miniaturas-videos{
+    display: grid;
+    grid-template-rows: repeat(3, 71px);
+    grid-template-columns: 101px 162px;
+    gap: 16px 9px;
+}
+
+.descricao-miniatura{
+    display: grid;
+    gap: 5px;
+}
+
+.descricao-miniatura h4{
+    font-size: 14px;
+}
+
+.descricao-miniatura p{
+    font-size: 11px;
+}

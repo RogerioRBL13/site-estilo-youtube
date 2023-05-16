@@ -1,0 +1,87 @@
+/*body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+.container{
+    width: 900px;
+    height: 415px;
+    padding: 38px 35px 19px 35px;
+    background-color: #F7F7F7;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.secao-principal{
+    width: 543px;
+    height: 330px;
+    display: grid;
+    gap: 9px;
+    margin-right: 17px;
+}
+
+.area-video{
+    max-width: 543px;
+    height: 217px;
+    background-color: #C4C4C4;
+}
+
+.titulo-video-destaque {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 3px;
+}
+
+.visualizações {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.descricao {
+    font-size: 16px;
+    font-weight: 300;
+}
+
+
+.area-lateral{
+    width: 270px;
+    height: 330px;
+}
+
+.miniaturas-videos{
+    display: flex;
+    margin-bottom: 16px;
+    margin-top: 20px;
+}
+
+.miniatura{
+    width: 101px;
+    height: 71px;
+    background-color: #C4C4C4;
+}
+
+.propaganda {
+    width: 270px;
+    height: 56px;
+    background-color: #C4C4C4;
+}
+.propaganda p{
+    text-align: center;
+}
+
+.descricao-miniatura {
+    margin-left: 4px;
+}
+
+.descricao-miniatura h4 {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.descricao-miniatura p {
+    font-size: 11px;
+    font-weight: 300;
+}*/
